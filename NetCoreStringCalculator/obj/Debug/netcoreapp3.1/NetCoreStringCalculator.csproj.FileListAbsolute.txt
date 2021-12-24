@@ -1,0 +1,12 @@
+/Users/allyreid/Projects/NetCoreStringCalculator/NetCoreStringCalculator/bin/Debug/netcoreapp3.1/NetCoreStringCalculator.deps.json
+/Users/allyreid/Projects/NetCoreStringCalculator/NetCoreStringCalculator/bin/Debug/netcoreapp3.1/NetCoreStringCalculator.runtimeconfig.json
+/Users/allyreid/Projects/NetCoreStringCalculator/NetCoreStringCalculator/bin/Debug/netcoreapp3.1/NetCoreStringCalculator.runtimeconfig.dev.json
+/Users/allyreid/Projects/NetCoreStringCalculator/NetCoreStringCalculator/bin/Debug/netcoreapp3.1/NetCoreStringCalculator.dll
+/Users/allyreid/Projects/NetCoreStringCalculator/NetCoreStringCalculator/bin/Debug/netcoreapp3.1/NetCoreStringCalculator.pdb
+/Users/allyreid/Projects/NetCoreStringCalculator/NetCoreStringCalculator/obj/Debug/netcoreapp3.1/NetCoreStringCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/allyreid/Projects/NetCoreStringCalculator/NetCoreStringCalculator/obj/Debug/netcoreapp3.1/NetCoreStringCalculator.AssemblyInfoInputs.cache
+/Users/allyreid/Projects/NetCoreStringCalculator/NetCoreStringCalculator/obj/Debug/netcoreapp3.1/NetCoreStringCalculator.AssemblyInfo.cs
+/Users/allyreid/Projects/NetCoreStringCalculator/NetCoreStringCalculator/obj/Debug/netcoreapp3.1/NetCoreStringCalculator.csproj.CoreCompileInputs.cache
+/Users/allyreid/Projects/NetCoreStringCalculator/NetCoreStringCalculator/obj/Debug/netcoreapp3.1/NetCoreStringCalculator.dll
+/Users/allyreid/Projects/NetCoreStringCalculator/NetCoreStringCalculator/obj/Debug/netcoreapp3.1/NetCoreStringCalculator.pdb
+/Users/allyreid/Projects/NetCoreStringCalculator/NetCoreStringCalculator/obj/Debug/netcoreapp3.1/NetCoreStringCalculator.genruntimeconfig.cache
